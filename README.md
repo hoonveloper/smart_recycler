@@ -31,8 +31,9 @@
 1. 적외선 센서를 이용해 쓰레기통 바닥까지의 거리를 측정하고 측정된 길이가 빈 쓰레기통의 길이보다 짧을경우, 쓰레기통이 얼마나 차 있는지 계산하여 LCD에 쓰레기통의 용량을 표시한다. 
 
 ### 잘버려 결과물
-![ㅋㅋ](https://user-images.githubusercontent.com/77804950/169647312-715ba109-582a-4409-beea-07d1bfeb1caa.jpg)
-![ㅋㅋㅋㅋ](https://user-images.githubusercontent.com/77804950/169647438-28387cae-6b0a-47dd-9fda-d49b32e652d4.png)
+<img src="https://user-images.githubusercontent.com/77804950/169647312-715ba109-582a-4409-beea-07d1bfeb1caa.jpg" width="400" height="400"/>
+<img src="https://user-images.githubusercontent.com/77804950/169647438-28387cae-6b0a-47dd-9fda-d49b32e652d4.png" width="400" height="400"/>
+
 
 # Build
 
